@@ -16,5 +16,8 @@ Most if the work was done by ...... and i tweak some serrings.
 
   i get really nice prints with it ...
 
+Note:
+i run it on a raspberry zero 2w, if u like to have the temperature value in mainscreen, please uncomment!
+
 
   #clean up/ rewrite 

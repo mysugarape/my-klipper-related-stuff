@@ -16,8 +16,5 @@ Most if the work was done by xpeng and i tweak some settings.
 
   i get really nice prints with it ...
 
-Note:
-i run it on a raspberry zero 2w, if u like to have the temperature value in mainscreen, please uncomment!
-
 
   #clean up/ rewrite 

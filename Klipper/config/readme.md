@@ -12,3 +12,5 @@ Calibrate ur Z-Offset before u use this config file !!! If not the Nozzle could 
 I recommend to use KAMPS, its a great piece of code. For Setup and Installation visit:<br>
 https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
 
+<h3>Start / End Macro</h3>
+This Macros contains KAMPS, if u dont have KAMPS installed the Startmacro wont work as expected ! As recommended ... install KAMPS 

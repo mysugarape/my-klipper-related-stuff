@@ -5,16 +5,7 @@ it maybe work with other but here we are only for the Neo.
 Most if the work was done by xpeng and i tweak some settings.
 
 
-- Mesh
-  in view of the Mesh i adjust the mesh area to get use more of the bed.
-  in old was fine but my bed is terrible.
+<h3>Informtion</h3>
+<br>
+Mesh:
 
-  Please Note:
-  check the z offset it may can crash in ur bed
-
-  do z calibration
-
-  i get really nice prints with it ...
-
-
-  #clean up/ rewrite 

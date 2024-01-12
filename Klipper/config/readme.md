@@ -8,3 +8,7 @@ Most if the work was done by xpeng and i tweak some settings.
 <h3>Z-Offset</h3>
 Calibrate ur Z-Offset before u use this config file !!! If not the Nozzle could crash into the bed !
 
+<h3>KAMPS</h3>
+I recommend to use KAMPS, its a great piece of code. For Setup and Installation visit:
+https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
+

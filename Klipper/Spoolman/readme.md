@@ -1,4 +1,4 @@
-Spoolman Setup - Automatic Filament switch
+[h1]Spoolman Setup - Automatic Filament switch[/h1]
 
 Spoolman:
 - follow instalation guide of spoolman

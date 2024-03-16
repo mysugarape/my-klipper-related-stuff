@@ -31,8 +31,6 @@ for energie saving and stable heating u can add this isolation sticker. Just uns
 
 https://s.click.aliexpress.com/e/_DkVON7j
 
-https://s.click.aliexpress.com/e/_DkVON7j
-
 
 
 

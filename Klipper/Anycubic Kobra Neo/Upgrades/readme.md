@@ -20,6 +20,7 @@ https://s.click.aliexpress.com/e/_DC9zkCZ
 
 <h1>Printbead Upgrades</h1>
 
+<h3>Springs for Heatbed, better calibration</h3>
 Add Springs to Heatbed, you need a 5mm Drill to widen the 4x holes. Drill slow and carefuly, u dont need to disasamble the heatbed mount, just drill slowly and carfuly. The Screws are a little bit long, but fits. U can shorten them or not :)<br>
 
 https://s.click.aliexpress.com/e/_DEmuWgD

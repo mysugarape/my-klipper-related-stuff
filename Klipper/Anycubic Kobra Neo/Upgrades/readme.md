@@ -31,6 +31,15 @@ for energie saving and stable heating u can add this isolation sticker. Just uns
 
 https://s.click.aliexpress.com/e/_DkVON7j
 
+<br>
+
+<h3>PEO/PEI TEXTURED PLATE</h3>
+there are serval plates out which have cool pattern designs, u can try them all if u like. Make sure u find a Size 230x230 or 235x235, the 235x235 size fits perfect !
+
+https://s.click.aliexpress.com/e/_DC9UNIZ
+
+<br>
+
 
 
 

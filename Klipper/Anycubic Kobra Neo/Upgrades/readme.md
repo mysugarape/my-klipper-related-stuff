@@ -41,10 +41,12 @@ https://s.click.aliexpress.com/e/_DC9UNIZ
 <br>
 
 <h1>Mainboard</h1>
-if u plan to use klipper or u use klipper already, i suggest to upgrade the board. The SKR Pico Board is perfect, there are serval adapters out which allows u to use the original mainboard slot. My Main Goal was a 2nd Zaxis, because the Stockboard is limited, the Pico brings NEOPIXEL Support which allows u to lighten up ur printer.
+if u plan to use klipper or u use klipper already, i suggest to upgrade the board. The SKR Pico Board is perfect, there are serval adapters out which allows u to use the original mainboard slot. My Main Goal was a 2nd Zaxis, because the Stockboard is limited, the Pico brings NEOPIXEL Support which allows u to lighten up ur printer.<br><br>
 
-- u have to crip the mainpower cords to smaller ones, because the stock crimping is to thick to fit into the pico
+- u have to crimp the ends of the mainpower cords to smaller ones, because the stock crimping is to thick to fit into the pico
+
 - u have to cut the top of the Endstop plugs so they fit (only the notches on the top)
+
 - rewire the Z Endstop (the stock connector is a 2 PIN, the Pico board have a 3 Pin Z Endstop, use a dupont or JST Connector if u have one) make a note from the original wiring so u dont have to mess around with pins.
 
 https://s.click.aliexpress.com/e/_Dkl2eiN
